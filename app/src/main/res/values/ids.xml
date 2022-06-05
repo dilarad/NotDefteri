@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="imageNoteImage" type="id" />
+    <item name="layoutUrl" type="id" />
+    <item name="imageDelete" type="id" />
+    <item name="imageDeleteImage" type="id" />
+</resources>
